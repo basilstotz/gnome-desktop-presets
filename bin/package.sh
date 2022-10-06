@@ -13,7 +13,7 @@ Maintainer: Basil Stotz <stotz@amxa.ch>
 Package: $NAME
 Version: $VERSION 
 Architecture: amd64
-Depends: gnome-shell-extension-arc-menu, gnome-shell-extension-dashtodock, gnome-shell-extension-desktop-icons, gnome-shell-extension-easyscreencast, gnome-shell-extension-multi-monitors, gnome-shell-extension-sound-device-chooser, gnome-shell-extension-top-icons-plus, gnome-shell-extension-gpaste
+Depends: gnome-shell-extension-arc-menu, gnome-shell-extension-dashtodock, gnome-shell-extension-desktop-icons, gnome-shell-extension-easyscreencast, gnome-shell-extension-multi-monitors, gnome-shell-extension-top-icons-plus, gnome-shell-extension-gpaste
 Description: Setup Easy Gnome Desktop 
   Setup Easy Gnome Desktop 
 EOF
