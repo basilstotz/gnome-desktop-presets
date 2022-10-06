@@ -1,3 +1,4 @@
 *~
-gnome-desktop-presets/DEBIAN/**
+gnome-desktop-presets/DEBIAN/control
+gnome-desktop-presets/DEBIAN/copyright
 *.deb
