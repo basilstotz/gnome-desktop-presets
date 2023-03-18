@@ -13,7 +13,7 @@ Maintainer: Basil Stotz <stotz@amxa.ch>
 Package: $NAME
 Version: $VERSION 
 Architecture: amd64
-Depends: gnome-shell-extension-arc-menu,gnome-shell-extension-dashtodock,gnome-shell-extension-desktop-icons-ng,gnome-shell-extension-easyscreencast,gnome-shell-extension-top-icons-plus,gnome-shell-extension-gpaste 
+Depends: gnome-shell-extension-arc-menu,gnome-shell-extension-dashtodock,gnome-shell-extension-desktop-icons-ng,gnome-shell-extension-easyscreencast,gnome-shell-extension-top-icons-plus,gnome-shell-extension-gpaste,geary 
 Description: Preset Gnome Desktop
  Preset Gnome Desktop
 EOF
