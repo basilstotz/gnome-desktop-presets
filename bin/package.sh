@@ -13,27 +13,9 @@ Maintainer: Basil Stotz <stotz@amxa.ch>
 Package: $NAME
 Version: $VERSION 
 Architecture: amd64
-Depends: gnome-shell-extension-arc-menu, gnome-shell-extension-dashtodock, gnome-shell-extension-desktop-icons, gnome-shell-extension-easyscreencast, gnome-shell-extension-multi-monitors, gnome-shell-extension-top-icons-plus, gnome-shell-extension-gpaste
-Description: Setup Easy Gnome Desktop 
-  Setup Easy Gnome Desktop 
-EOF
-
-cat <<EOF > $NAME/DEBIAN/copyright
-Copyright: 2021 Basil Stotz <stotz@amxa.ch>
-License: GPL-3+
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version. 
-.
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-.
-You should have received a copy of the GNU General Public License along
-with this program; if not, write to the Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+Depends: gnome-shell-extension-arc-menu,gnome-shell-extension-dashtodock,gnome-shell-extension-desktop-icons-ng,gnome-shell-extension-easyscreencast,gnome-shell-extension-top-icons-plus,gnome-shell-extension-gpaste 
+Description: Preset Gnome Desktop
+ Preset Gnome Desktop
 EOF
 
 dpkg-deb -b $NAME .
