@@ -1,2 +1,2 @@
 [org/gnome/shell]
-favorite-apps=['firefox-esr.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Software', 'org.gnome.TextEditor.desktop', 'org.gnome.Extensions.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop', 'yelp.desktop']
+favorite-apps=['firefox-esr.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Geary.desktop', 'org.gnome.Software', 'org.gnome.TextEditor.desktop', 'org.gnome.Extensions.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop', 'yelp.desktop']
